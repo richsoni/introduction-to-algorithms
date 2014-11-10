@@ -1,7 +1,7 @@
 # Ch2
 
 ## Insertion Sort
-[sort](./Insertion-sort-example-300px.gif)
+![sort](./Insertion-sort-example-300px.gif)
 
 To run: start a lisp session ```clisp -i './insertion_sort'```
 
